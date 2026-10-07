@@ -1,0 +1,22 @@
+{
+  "name": "task31-nodejs-web-server",
+  "version": "1.0.0",
+  "description": "This project demonstrates how to create a simple web server using Node.js and the built-in HTTP module.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahsan-ali-dev03/Task31-NodeJS-Web-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ahsan-ali-dev03/Task31-NodeJS-Web-Server/issues"
+  },
+  "homepage": "https://github.com/ahsan-ali-dev03/Task31-NodeJS-Web-Server#readme"
+}
